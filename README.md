@@ -18,7 +18,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/smdp2000/smdp2000/issues/new"><b>here</b></a><br>
-or <a href="mailto:dheeraj12000@gmail.com"><b>email</b></a> me
+or <a href="mailto:somyadee@usc.edu"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
