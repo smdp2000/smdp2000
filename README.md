@@ -31,7 +31,6 @@ or <a href="mailto:somyadee@usc.edu"><b>email</b></a> me
 
 ---
 [![HitCount](http://hits.dwyl.com/smdp2000/smdp2000.svg)](http://hits.dwyl.com/smdp2000/smdp2000)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=smdp2000.smdp2000) 
 
 
 
