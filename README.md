@@ -14,7 +14,6 @@
 
 <h3 align="center">Accomplished Software Engineer with a wealth of experience, delivering highly visible and complex projects within fast-paced environments such as Therr and Deloitte. Currently a MS CS student at USC
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdp2000&label=Profile%20views&color=0e75b6&style=flat" alt="smdp2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smdp2000" alt="smdp2000" /></a> </p>
 
