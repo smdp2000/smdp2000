@@ -12,7 +12,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Somyadeep Shrivastava</h1>
-<h3 align="center">Accomplished Software Engineer with a wealth of experience, delivering highly visible and complex projects within fast-paced environments such as Therr and Deloitte. Talented Full-Stack Developer with expertise in Programming Languages (Python, JavaScript, Java), Frameworks (ReactJS, NodeJS, Flask), Databases (SQL, NoSQL).</h3>
+<h3 align="center">Accomplished Software Engineer with a wealth of experience, delivering highly visible and complex projects within fast-paced environments such as Therr and Deloitte. Currently a MS CS student at USC
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smdp2000&label=Profile%20views&color=0e75b6&style=flat" alt="smdp2000" /> </p>
 
