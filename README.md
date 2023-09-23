@@ -1,9 +1,6 @@
 ## नमस्ते 🙏
 <div align="center">
 
-<a href="https://www.linkedin.com/in/smdp2000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
-
-
 ![Matrix SVG](https://raw.githubusercontent.com/smdp2000/smdp2000/master/matrix.svg)
 
 <div align="center" width="50">
@@ -46,12 +43,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smdp2000&" alt="smdp2000" /></p>
 
-<!--
-  <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/high__on._.life/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/dheerubhai2000/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●  -->
 
-<!--[![](https://img.shields.io/badge/LinkedIn-dheeraj-2000-blue)](https://www.linkedin.com/in/dheeraj-2000/)-->
-<!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
-
----
