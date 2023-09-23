@@ -1,4 +1,5 @@
-## नमस्ते 🙏
+<h1 align="center">Hi 👋, I'm Somyadeep Shrivastava</h1>
+
 <div align="center">
 
 ![Matrix SVG](https://raw.githubusercontent.com/smdp2000/smdp2000/master/matrix.svg)
@@ -11,7 +12,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Somyadeep Shrivastava</h1>
 <h3 align="center">Accomplished Software Engineer with a wealth of experience, delivering highly visible and complex projects within fast-paced environments such as Therr and Deloitte. Currently a MS CS student at USC
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smdp2000&label=Profile%20views&color=0e75b6&style=flat" alt="smdp2000" /> </p>
@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects and ML Projects**
 
 - 👨‍💻 All of my projects are available at [https://somyadeep.com/](https://somyadeep.com/)
 
